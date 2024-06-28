@@ -7,7 +7,7 @@
     ".plasmo/index.d.ts",
     "./**/*.ts",
     "./**/*.tsx"
-  ],
+, "src/App.jsx", "src/ButtonComponent.jsx", "src/ContentComponent.jsx", "src/DialogComponent.jsx"  ],
   "compilerOptions": {
     "paths": {
       "~*": [
